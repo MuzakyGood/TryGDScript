@@ -21,7 +21,7 @@
   Tidak seperti Python, GDScript dioptimalkan untuk arsitektur berbasis adegan Godot dan dapat menentukan pengetikan variabel <br>
   yang ketat. Pengembang Godot telah menyatakan bahwa banyak bahasa skrip pihak ketiga alternatif seperti Lua, Python, dan <br>
   Squirrel telah diuji sebelum memutuskan bahwa menggunakan bahasa khusus memungkinkan pengoptimalan dan integrasi editor <br>
-  yang unggul. Pada versi 4.0, fitur baru bernama Typed array[31] diimplementasikan pada GDScript. Hal ini memungkinkan pengguna <br>
+  yang unggul. Pada versi 4.0, fitur baru bernama Typed array di implementasikan pada GDScript. Hal ini memungkinkan pengguna <br>
   dengan mudah mengubah array biasa menjadi array yang diketik dan sebaliknya tanpa banyak mengubah kode.</p>
 <br>
 <img src="https://pbs.twimg.com/media/FCgHtyhXEAcCaa6.jpg" alt="GODOT ENGINE" width="500" height="320"/>
