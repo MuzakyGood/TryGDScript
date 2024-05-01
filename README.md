@@ -1,7 +1,7 @@
 # ***INI ITU PROJEK APA?***
 <p>Ini adalah repositori yang berisi code dasar GDScript untuk Belajar</p>
 
-# ***APA ITU GDSCRIPT?***
+# ***EXPLAIN ALL***
 <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferree">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="GODOT ENGINE" width="45" height="45"/> </a>
 <br>
