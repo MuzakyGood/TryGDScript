@@ -1,7 +1,7 @@
-# ***INI ITU PROJEK APA?***
+# **INI ITU PROJEK APA?**
 <p>Ini adalah repositori yang berisi code dasar GDScript untuk Belajar</p>
 
-# ***EXPLAIN ALL***
+# **EXPLAIN ALL**
 <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferree">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="GODOT ENGINE" width="45" height="45"/> </a>
 <br>
@@ -27,7 +27,7 @@
 <img src="https://pbs.twimg.com/media/FCgHtyhXEAcCaa6.jpg" alt="GODOT ENGINE" width="500" height="320"/>
 <br>
 
-# ***BAGAIMANA CARA COMPILE CODE?***
+# **BAGAIMANA CARA COMPILE CODE?**
 <p>Sebenarnya GDScript tidak memiliki compiler, Tetapi untuk compile GDScript bisa menggunakan Godot Engine</p> 
 <br>
 <a href="https://godotengine.org/download/windows/" target="_blank" rel="norefree">
@@ -36,4 +36,4 @@
 <a href="https://godotengine.org/download/android/" target="_blank" rel="norefree">
 <p><i>👉Klik di di bawah untuk unduh Godot Engine untuk Android👈</i></p> </a>
 
-# ***😄Terima Kasih😄***
+# **😄Terima Kasih😄**
